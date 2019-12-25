@@ -12,5 +12,5 @@
 
 ### Lab Solution
 
-- Python - Lab 01: https://www.youtube.com/watch?v=l0UMZo_ncfU&list=PL-ORy-tsbItw9CK3Xq7IFhunp8fvewI9G&index=15&t=0s
-- Python - Lab 02: https://www.youtube.com/watch?v=OOwET43h4a0&list=PL-ORy-tsbItw9CK3Xq7IFhunp8fvewI9G&index=16&t=0s
+- Python - Lab 01: https://www.youtube.com/watch?v=l0UMZo_ncfU&list=PL-ORy-tsbItw9CK3Xq7IFhunp8fvewI9G&index=14 
+- Python - Lab 02: https://www.youtube.com/watch?v=OOwET43h4a0&list=PL-ORy-tsbItw9CK3Xq7IFhunp8fvewI9G&index=15 
